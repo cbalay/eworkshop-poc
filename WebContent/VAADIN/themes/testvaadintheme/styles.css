@@ -1,0 +1,90 @@
+@import url(../reindeer/styles.css);
+
+/*.v-panel-content{
+  overflow: hidden !important;
+}*/
+
+
+
+.mainLayout {
+  background-color: rgb(255, 0, 0);
+}
+
+.horizontalLayout_EnteteGlobal {
+	background-color: rgb(219,238,243);
+}
+
+.horizontalSplitPanel_Op {
+  background-color: rgb(255, 0, 255);
+}
+
+.verticalLayout_Ops {
+  background-color: rgb(215,227,191);
+  //border: 1px solid rgb(163, 190, 105);
+}
+
+.verticalLayout_TitleOpActuelle {
+  background-color: rgb(191,191,191);
+}
+
+.verticalLayout_Description {
+  background-color: rgb(253,235,221);
+}
+
+.verticalLayout_Images {
+  background-color: rgb(221,214,229);
+}
+
+.horizontalLayout_Boutons {
+  background-color: rgb(229,185,181);
+}
+
+.verticalLayout_AutoControles {
+  background-color: rgb(235,235,173);
+  //border: 1px solid rgb(186, 186, 46);
+}
+
+.horizontalLayout_labelMedia {
+  background-color: rgb(216,216,216);
+}
+
+.verticalLayout_embeddedMedia {
+  background-color: rgb(141,177,226);
+}
+
+.verticalLayout_Documents {
+  background-color: rgb(49,133,155);
+}
+
+.horizontalLayout_Validation {
+  background-color: rgb(157,187,97);
+}
+
+
+.gridLayout_1 {
+	padding: 0px;
+}
+
+
+
+/**
+ * Tests centPercent
+ */
+ 
+ .horizGlobal {
+  background-color: rgb(141,177,226);
+ }
+ 
+ .vert1 {
+  background-color: rgb(49,133,155);
+ }
+ 
+ .vert2 {
+  background-color: rgb(157,187,97);
+ }
+ 
+ .vert3 {
+  background-color: rgb(216,216,216);
+ 
+ }
+ 
